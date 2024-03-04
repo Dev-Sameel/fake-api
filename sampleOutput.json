@@ -1,0 +1,77 @@
+[
+    {
+        "name": "ashok",
+        "personal": {
+            "address": "kerala",
+            "media": {
+                "facebook": "facebook link",
+                "instagram": "instagram link"
+            },
+            "links": [
+                {
+                    "name": "facebook",
+                    "likes": "50"
+                },
+                {
+                    "name": "instagram",
+                    "likes": "350"
+                },
+                {
+                    "name": "tiktok",
+                    "likes": "500"
+                }
+            ]
+        }
+        
+    },
+    {
+        "name": "ajith",
+        "personal": {
+            "address": "tamil nadu",
+            "media": {
+                "facebook": "facebook link",
+                "instagram": "instagram link"
+            },
+            "links": [
+                {
+                    "name": "facebook",
+                    "likes": "502"
+                },
+                {
+                    "name": "instagram",
+                    "likes": "150"
+                },
+                {
+                    "name": "tiktok",
+                    "likes": "100"
+                }
+            ]
+        }
+        
+    },
+    {
+        "name": "sameel",
+        "personal": {
+            "address": "bangaloor",
+            "media": {
+                "facebook": "facebook link",
+                "instagram": "instagram link"
+            },
+            "links": [
+                {
+                    "name": "facebook",
+                    "likes": "550"
+                },
+                {
+                    "name": "instagram",
+                    "likes": "250"
+                },
+                {
+                    "name": "tiktok",
+                    "likes": "100"
+                }
+            ]
+        }
+        
+    }
+]
